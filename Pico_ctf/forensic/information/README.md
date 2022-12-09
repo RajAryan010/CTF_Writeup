@@ -30,7 +30,7 @@ strings cat.jpg | less
 
 And it'll give the following output
 
-![alt text]()
+![alt text](https://github.com/RajAryan010/CTF_Writeup/raw/main/Pico_ctf/forensic/information/strings_output.jpg)
 
 You can see some base64 encoded text in the above picture.
 
