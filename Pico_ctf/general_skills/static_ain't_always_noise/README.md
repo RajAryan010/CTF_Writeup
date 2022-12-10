@@ -22,7 +22,7 @@ cat static
 
 ```
 
-![alt cat result]()
+![alt cat result](https://github.com/RajAryan010/CTF_Writeup/raw/main/Pico_ctf/general_skills/static_ain't_always_noise/cat_result.jpg)
 
 ## Flag
 
