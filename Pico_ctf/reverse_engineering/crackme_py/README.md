@@ -12,9 +12,9 @@
 
 ## Solution
 
-`If we examine(view) the source code of the python script,
+`If we examine(view) the source code of the python script,`
 
-The very fourth line gets the red flag.`
+`The very fourth line gets the red flag.`
 
 ```diff
 
