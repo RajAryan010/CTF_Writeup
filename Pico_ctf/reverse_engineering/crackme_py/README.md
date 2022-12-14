@@ -24,7 +24,7 @@ bezos_cc_secret = "A:4@r%uL`M-^M0c0AbcM-MFE055a4ce`eN"
 
 `If we see the 12th line of the code, we can say that its "rot47" `
 
-You can decode it online using [this](decode.fr)
+You can decode it online.
 
 ## Flag
 
