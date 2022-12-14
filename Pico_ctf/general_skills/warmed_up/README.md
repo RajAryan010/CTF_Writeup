@@ -40,7 +40,7 @@ D x 1 = 13
 
 ## Flag
 
-```
+```diff
 
 @@ picoCTF{61} @@
 
